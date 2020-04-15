@@ -17,7 +17,8 @@ Technology to use
 
 Facilitator(s)
 
-Name: Umar Ismail
+Name: Umar Ismail <br>
 Phone: 08039262966
+
 Email: ismailumarbaba@gmail.com
 
