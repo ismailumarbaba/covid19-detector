@@ -1,6 +1,6 @@
 <b>DSC FULAFIA CHALLENGE</b>
 
-COVID-19 Dictator Project
+<b><i>COVID-19 Dictator Project</i></b>
 
 After designing this web project, it should be able to tell if someone is likely having Corona Virus or not.
 It will have list of corona virus symptoms and allow users select from the list which will then provide a result saying if the person is likely having the virus or not and also suggest things he/she should do to keep them and their loved ones safe from the virus
@@ -15,10 +15,9 @@ Technology to use
     CSS
     JavaScript
 
-Facilitator(s)
+<b>Facilitator(s)</b>
 
 Name: Umar Ismail <br>
-Phone: 08039262966
-
+Phone: 08039262966 <br>
 Email: ismailumarbaba@gmail.com
 
